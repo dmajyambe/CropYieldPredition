@@ -1,6 +1,6 @@
 
 matplotlib
-plotlyos 
+plotly
 streamlit
 pandas
 scikit-learn
