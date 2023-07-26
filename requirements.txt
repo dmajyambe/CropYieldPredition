@@ -1,12 +1,10 @@
 
 matplotlib
-oauth2client.service_account
-plotly
-os 
+plotlyos 
 streamlit
 pandas
 scikit-learn
 gspread
-oauth2client
+
 
 
