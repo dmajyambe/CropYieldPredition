@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+sklearn.linear_model
+gspread
+oauth2client.service_account
+plotly
+os 
